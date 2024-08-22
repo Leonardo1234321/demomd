@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: demoMD
+site_author: Leonardo furtado Kauffmann
+
+nav:
+  - titulos: headings.md
+  - paragrafos e enfatização: paragraphs.md
+  - citações: blockquotes.md
+
+theme:
+  name: material
