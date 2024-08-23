@@ -17,6 +17,8 @@ Pode-se colocar um título nos links, títulos aparecem como um auxiliar quando 
 
     [...] passa o mouse por cima do [link](https://github.com/, "isto é um título").
 
+> Vale ressaltar que todo e qualquer link deve estar em uma linha só.
+
 ## Links referenciados  
 
 ### Primeira parte 
