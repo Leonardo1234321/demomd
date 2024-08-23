@@ -15,3 +15,35 @@ você pode fazer uma citação grande colocando vários > em cada linha:
 >  
 > texto3  
   
+## Citações aninhadas  
+  
+  Ao colocar mais de uma > você consegue aninhar citações.  
+  
+> Texto 1  
+>> Citação aninhada  
+>>> Citação aninhada  
+>>>> Citação aninhada  
+>>>>> Citação aninhada  
+  
+    > Texto 1  
+    >> Citação aninhada  
+    >>> Citação aninhada  
+    >>>> Citação aninhada  
+    >>>>> Citação aninhada  
+  
+## Outros elementos dentro de citações  
+
+Pode-se colocar outros elementos markdown dentro de uma citação  
+
+> # títulos 
+> ```códigos```  
+> [github.com](https://github.com/) links
+>  
+
+    > # títulos 
+    > ```códigos``` 
+    > [github.com](https://github.com/) links
+    >  
+
+
+  
