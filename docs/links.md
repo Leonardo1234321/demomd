@@ -49,3 +49,17 @@ A seguir, uma lista de formatos possíveis de referenciar:
 - ```[1]: <https://github.com/> "isto é um título"```
 - ```[1]: <https://github.com/> 'isto é um título'```
 - ```[1]: <https://github.com/> (isto é um título)```
+
+## Imagens  
+
+Imagens seguem a mesma sintaxe de um link, a única diferença é que devem ser iniciados com um de exclamação ```!```.  
+
+![uma paisagem qualquer](https://cursinhoparamedicina.com.br/wp-content/uploads/2022/10/Paisagem-1.jpg)
+
+> ```![uma paisagem qualquer](https://cursinhoparamedicina.com.br/wp-content/uploads/2022/10/Paisagem-1.jpg)```
+
+### Adiocionando links em uma imagem  
+
+Pode-se imbuir um link em uma imagem usando a' seguinte sintaxe:
+
+[![Clique em mim!](https://planetacampo.canalrural.com.br/wp-content/uploads/2023/08/ChatGPT.jpg)](https://chatgpt.com/)

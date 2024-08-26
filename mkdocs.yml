@@ -2,6 +2,7 @@ site_name: demoMD
 site_author: Leonardo furtado Kauffmann
 
 nav:
+  - Home: index.md
   - titulos: headings.md
   - paragrafos e enfatização: paragraphs.md
   - citações: blockquotes.md
