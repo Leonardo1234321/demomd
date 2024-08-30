@@ -7,6 +7,11 @@ nav:
   - paragrafos e enfatização: paragraphs.md
   - citações: blockquotes.md
   - URLS, links e imagens: links.md
+  - teste mermaid: mermaid-test.md
 
 theme:
   name: material
+
+plugins: 
+  - search 
+  - mermaid2
